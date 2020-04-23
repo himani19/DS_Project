@@ -6,7 +6,7 @@ python3
 Mpi4py
 
 To run code
-mpiexec -n (number of processes) python3 ds-final.py (name of input file)
+mpiexec -n (number of processes) python3 kshem-singhal.py (name of input file)
 
 Assumptions
 each node is considered as process
