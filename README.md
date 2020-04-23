@@ -1,15 +1,14 @@
 # DS_Project
 Distributed Project on Global State Deadlock Detecti
-Dependencies
-
+# Dependencies
 python3
 Mpi4py
 
-To run code
+# To run code
 mpiexec -n (number of processes) python3 kshem-singhal.py (name of input file)
 
-Assumptions
-each node is considered as process
+# Assumptions
+Each node is considered as process
 Input file format
 Number of nodes
 Initiator Id
