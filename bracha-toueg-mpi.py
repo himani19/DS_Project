@@ -91,7 +91,7 @@ class Node:
 				comm.send([self.id,"GRANT"], dest = In[i]-1)
 
 nodes={}
-file = open("input.txt","r")
+file = open(sys.argv[1],"r")
 lines = file.readlines()
 numberOfNodes = int(lines[0])
 initiator = int(lines[1])
