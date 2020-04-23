@@ -6,8 +6,8 @@ Mpi4py
 
 # To run code 
 1.Kshemkalyani-singhal<br>
-mpiexec -n (number of processes) python3 kshem-singhal.py (name of input file)
-2.Bracha-Toueg
+mpiexec -n (number of processes) python3 kshem-singhal.py (name of input file)<br>
+2.Bracha-Toueg<br>
 
 
 # Assumptions
